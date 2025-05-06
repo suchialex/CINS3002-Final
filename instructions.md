@@ -28,7 +28,7 @@
     ✅ Part 2: 20 pts
   </summary>
 
-  - The file movies.txt has data in the format movie id, movie name, movie year and movie rating separated by ;
+  - The file movies.txt has data in the format movie id, movie name, movie year and movie rating separated by `;`
   - Using option 3,
   - read movies.txt into a multidimensional list
   - ask user to provide movie name
@@ -37,7 +37,7 @@
     - ask user to enter rating (rating must be integral value between 2 and 10)
     - change the rating for that movie to the user entered value
   - else, print movie not found
-  - write the updated list back to the file in the same ; delimited format
+  - write the updated list back to the file in the same `;` delimited format
   - Handle any and all exceptions
 </details>
 

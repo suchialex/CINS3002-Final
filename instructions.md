@@ -29,7 +29,6 @@
   </summary>
 
   - The file movies.txt has data in the format movie id, movie name, movie year and movie rating separated by `;`
-  - Using option 3,
   - read movies.txt into a multidimensional list
   - ask user to provide movie name
   - look for the movie name in the multidimensional list (use case-insensitive comparision)
@@ -44,7 +43,7 @@
 
 <details>
   <summary>
-    ✅ Part 3: 30 pts
+    ✅ Part 3: 20 pts
   </summary>
 
   Dictionary Structure: movies.pkl stores a nested dictionary  
@@ -62,7 +61,7 @@
   1. Unpickle the movies.pkl file which has a dictionary
   2. For the movie Shawshank Redemption, add a new key/value pair, key is `cast` and value is a set with two elements `Morgan Freeman` and `Tim Robbins`
   3. Change Forrest Gump year to 1994 and add actor Gary Sinise to the cast (make sure you don't erase any existing cast)
-  4. Change all movie ratings (if available) to integers
+  4. Change all movie ratings' datatypes (if available) to integers
   5. Ask the user to input a movie name, if found, ask the user to enter one cast and add the new cast to the movie, without erasing any previous cast
   6. Pickle the modified dictionary to movies2.pkl
 </details>
@@ -72,7 +71,7 @@
 
 <details>
   <summary>
-    ✅ Part 4: 20 pts
+    ✅ Part 4: 30 pts
   </summary>
 
 - In `classes.py`, create three classes using the diagram provided in Part4 - Inheritance Diagram.pdf 

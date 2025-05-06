@@ -78,7 +78,7 @@
 
 <details>
   <summary>
-    ✅ Part 4: 30 pts - Write code in a function named part4()
+    ✅ Part 4: 30 pts
   </summary>
 
 - In `classes.py`, create three classes using the diagram provided in part4 - inheritance diagram 

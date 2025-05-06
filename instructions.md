@@ -11,6 +11,12 @@
   4. All exceptions must be handled
   5. Import whatever packages you need
   6. You must do all type conversions as necessary
+  7. Files you will need
+     - [movies.txt](https://github.com/suchialex/CINS3002-Final/blob/main/movies.txt)
+     - [movies.pkl](https://github.com/suchialex/CINS3002-Final/blob/main/movies.pkl)
+     - [part4 - inheritance diagram](https://github.com/suchialex/CINS3002-Final/blob/main/Part%204%20-%20Inheritance%20Diagram.pdf)
+     - [pretty_print](https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py)
+     
 </details>
 
 
@@ -63,7 +69,7 @@
   3. Change Forrest Gump year to 1994 and add actor Gary Sinise to the cast (make sure you don't erase any existing cast)
   4. Change all movie ratings' datatypes (if available) to integers
   5. Ask the user to input a movie name, if found, ask the user to enter one cast and add the new cast to the movie, without erasing any previous cast
-  6. Pickle the modified dictionary to movies2.pkl
+  6. Pickle the modified dictionary to `movies2.pkl`
 </details>
   
 </details>
@@ -74,17 +80,17 @@
     ✅ Part 4: 30 pts
   </summary>
 
-- In `classes.py`, create three classes using the diagram provided in Part4 - Inheritance Diagram.pdf 
+- In `classes.py`, create three classes using the diagram provided in part4 - inheritance diagram 
 
 - In `functions.py` in part4() function body
-  1.	Create new pilot object, and call it pilot1
+  1.	Create new pilot object, and name it pilot1
   2.	Create four variables id = `3045`, name = `Harry Wilks`, cert_level = `AUD-L1`, salary = `75000` (Choose your data types)
   3.	Pass arguments id, name, salary, cert_level when you create the object pilot1
   4.	Change pilot1’s salary to 85000
   5.	Get pilot1’s cert_level and print it
   6.	Print all the details of pilot1  
   
-  7.	Create new mechanic, call it mechanic1 using id = `3980`, name = `Ian West`, salary = `55000`, specialization = `aerofoil`
+  7.	Create new mechanic object, name it mechanic1 using id = `3980`, name = `Ian West`, salary = `55000`, specialization = `aerofoil`
   8.	Change mechanic1’s specialization to `wing engineering`
   9.	Get mechanic1’s name and print it
   10.	Print all the details of mechanic1

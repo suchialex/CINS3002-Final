@@ -68,7 +68,7 @@
   1. Unpickle the movies.pkl file which has a dictionary
   2. For the movie Shawshank Redemption, add a new key/value pair, key is `cast` and value is a set with two elements `Morgan Freeman` and `Tim Robbins`
   3. Change Forrest Gump year to 1994 (make sure you conform to the existing datatypes) and add actor Gary Sinise to the cast (make sure you don't erase any existing cast)
-  4. Change all movie ratings' datatypes (if available) to integers
+  4. Change all movie ratings' datatypes (if available) to floats
   5. Ask the user to input a movie name, if found, ask the user to enter one cast and add the new cast to the movie, without erasing any previous cast
   6. Pickle the modified dictionary to `movies2.pkl`
 </details>

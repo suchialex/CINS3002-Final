@@ -57,7 +57,8 @@
   - the value is a dictionary as follows
     - `name` -> movie_name (string)
     - `year` -> movie_year (string)
-    - `rating` -> movie_rating (string) 
+    - `rating` -> movie_rating (string)
+    - `cast` -> the cast of the movie (set) 
 
 <details>
   <summary>

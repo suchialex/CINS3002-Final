@@ -39,7 +39,7 @@
   - ask user to provide movie name
   - look for the movie name in the multidimensional list (use case-insensitive comparision)
   - if found,
-    - ask user to enter rating (rating must be integral value between 2 and 10)
+    - ask user to enter rating (rating must be float value between 2 and 10)
     - change the rating for that movie to the user entered value
   - else, print movie not found
   - write the updated list back to the file in the same `;` delimited format

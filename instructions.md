@@ -65,12 +65,12 @@
     Operations
   </summary>
 
-  1. Unpickle the movies.pkl file which has a dictionary (2 pts) 
-  2. For the movie Shawshank Redemption, add a new key/value pair, key is `cast` and value is a set with two elements `Morgan Freeman` and `Tim Robbins` (4 pts)
-  3. Change Forrest Gump year to 1994 (make sure you conform to the existing datatypes) and add actor Gary Sinise to the cast (make sure you don't erase any existing cast) (4 pts)
-  4. Change all movie ratings' datatypes (if available) to floats (4 pts)
-  5. Ask the user to input a movie name, if found (case-insensitive search), ask the user to enter one cast and add the new cast to the movie, without erasing any previous cast. The new cast name must have first letter of each word capitalized. (4 pts)
-  6. Pickle the modified dictionary to `movies2.pkl` (2 pts) 
+  1. Unpickle the movies.pkl file which has a dictionary (2 pts)   
+  2. For the movie Shawshank Redemption, add a new key/value pair, key is `cast` and value is a set with two elements `Morgan Freeman` and `Tim Robbins` (4 pts)  
+  3. Change Forrest Gump year to 1994 (make sure you conform to the existing datatypes) and add actor Gary Sinise to the cast (make sure you don't erase any existing cast) (4 pts)  
+  4. Change all movie ratings' datatypes (if available) to floats (4 pts)  
+  5. Ask the user to input a movie name, if found (case-insensitive search), ask the user to enter one cast and add the new cast to the movie, without erasing any previous cast. The new cast name must have first letter of each word capitalized. (4 pts)  
+  6. Pickle the modified dictionary to `movies2.pkl` (2 pts)   
 </details>
   
 </details>
@@ -100,7 +100,7 @@
 
 <details>
   <summary>
-    ✅ **Part 5: 20 pts** - Write code in a function named part5()
+    ✅ Part 5: 20 pts - Write code in a function named part5()
   </summary>
 
 - Connect to the database movies.db (1 pt)

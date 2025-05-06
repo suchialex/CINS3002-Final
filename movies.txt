@@ -1,0 +1,15 @@
+1;The Shawshank Redemption;1994;9.2
+2;The Good; the Bad and the Ugly;1966;8.8
+3;Forrest Gump;1994;8.8
+4;Fight Club;1999;8.7
+5;The Lord of the Rings: The Two Towers;2002;8.7
+6;Inception;2010;8.7
+7;Star Wars: Episode V - The Empire Strikes Back;1980;8.7
+8;The Godfather;1972;9.2
+9;The Dark Knight;2008;9
+10;The Godfather Part II;1974;9
+11;12 Angry Men;1957;9
+12;Schindler's List;1993;8.9
+13;The Lord of the Rings: The Return of the King;2003;8.9
+14;Pulp Fiction;1994;8.8
+15;The Lord of the Rings: The Fellowship of the Ring;2001;8.8

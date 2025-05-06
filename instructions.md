@@ -110,7 +110,7 @@
   - year is integer
   - rating is float
 - it should not raise any exception
-- Open the file movies.txt and read it and insert that data into the table you created using INSERT statements
+- Open the file movies.txt and read it and insert that data into the table you created using INSERT statements (After executing correctly, comment out just this code)
 - Display all the movie data in a nice tabular format sorted by name
 - Display the lowest rating
 - Display the most recent movie(s) name and rating,sorted by rating in descending order

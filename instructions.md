@@ -111,6 +111,8 @@
   - rating is float
 - it should not raise any exception
 - Open the file movies.txt and read it and insert that data into the table you created using INSERT statements (After executing correctly, comment out just this code)
+- (🚩 If you couldn't get the above code to working then you will not have any data to proceed with the following queries - you may download [movies.db](https://github.com/suchialex/CINS3002-Final/blob/main/movies.db))
+- (If you are using the db file provided by me, the column names are MovieID, MovieName, MovieYear and MovieRating)
 - Display all the movie data in a nice tabular format sorted by name
 - Display the lowest rating
 - Display the year of the most recent movie

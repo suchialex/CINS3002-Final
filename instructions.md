@@ -114,7 +114,7 @@
 - Display all the movie data in a nice tabular format sorted by name
 - Display the lowest rating
 - Display the year of the most recent movie
-- Change the rating of the movie, the good, the bad and the ugly to 10
+- Change the rating of the movie, The Good the Bad and the Ugly to 10
 - Change the year of Forrest Gump to 1994
 - Delete any movies who have rating lower than 9 and print how many were deleted
 - Close the connection

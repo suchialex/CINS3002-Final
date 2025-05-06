@@ -22,7 +22,7 @@
 
 <details>
   <summary>
-    ✅ Part 1: 10 pts
+    ✅ Part 1: 10 pts - Write code in a function named part1()
   </summary>
   
   - Write a while loop that will generate random integer between 4 and 10 until the user presses 0 (zero)
@@ -31,7 +31,7 @@
 
 <details>
   <summary>
-    ✅ Part 2: 20 pts
+    ✅ Part 2: 20 pts - Write code in a function named part2()
   </summary>
 
   - The file movies.txt has data in the format movie id, movie name, movie year and movie rating separated by `;`
@@ -49,7 +49,7 @@
 
 <details>
   <summary>
-    ✅ Part 3: 20 pts
+    ✅ Part 3: 20 pts - Write code in a function named part3()
   </summary>
 
   Dictionary Structure: movies.pkl stores a nested dictionary  
@@ -77,7 +77,7 @@
 
 <details>
   <summary>
-    ✅ Part 4: 30 pts
+    ✅ Part 4: 30 pts - Write code in a function named part4()
   </summary>
 
 - In `classes.py`, create three classes using the diagram provided in part4 - inheritance diagram 
@@ -100,7 +100,7 @@
 
 <details>
   <summary>
-    ✅ Part 5: 20 pts
+    ✅ Part 5: 20 pts - Write code in a function named part5()
   </summary>
 
 - Connect to the database movies.db

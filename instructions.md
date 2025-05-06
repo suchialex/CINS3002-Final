@@ -44,7 +44,7 @@
 
 <details>
   <summary>
-    ✅ Part 3: 20 pts
+    ✅ Part 3: 30 pts
   </summary>
 
   Dictionary Structure: movies.pkl stores a nested dictionary  

@@ -42,7 +42,7 @@
     - ask user to enter rating (rating must be float value between 2 and 10)
     - change the rating for that movie to the user entered value
   - else, print movie not found
-  - write the updated list back to the file in the same `;` delimited format
+  - write the updated list to a new file named movies2.txt in the same `;` delimited format
   - Handle any and all exceptions
 </details>
 

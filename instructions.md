@@ -84,9 +84,8 @@
 - In `classes.py`, create three classes using the diagram provided in part4 - inheritance diagram 
 
 - In `functions.py` in part4() function body
-  1.	Create new pilot object, and name it pilot1
-  2.	Create four variables id = `3045`, name = `Harry Wilks`, cert_level = `AUD-L1`, salary = `75000` (Choose your data types)
-  3.	Pass arguments id, name, salary, cert_level when you create the object pilot1
+  1.	Create four variables id = `3045`, name = `Harry Wilks`, cert_level = `AUD-L1`, salary = `75000` (Choose your data types)
+  2.	Create new pilot object using the above variables, and name it pilot1 
   4.	Change pilot1’s salary to 85000
   5.	Get pilot1’s cert_level and print it
   6.	Print all the details of pilot1  

@@ -81,45 +81,45 @@
     ✅ Part 4: 30 pts
   </summary>
 
-- In `classes.py`, create three classes using the diagram provided in part4 - inheritance diagram 
+- In `classes.py`, create three classes using the diagram provided in part4 - inheritance diagram (20 pts)  
 
 - In `functions.py` in part4() function body
-  1.	Create four variables id = `3045`, name = `Harry Wilks`, cert_level = `AUD-L1`, salary = `75000` (Choose your data types)
-  2.	Create new pilot object using the above variables, and name it pilot1 
-  4.	Change pilot1’s salary to 85000
-  5.	Get pilot1’s cert_level and print it
-  6.	Print all the details of pilot1  
+  1.	Create four variables id = `3045`, name = `Harry Wilks`, cert_level = `AUD-L1`, salary = `75000` (Choose your data types) (1 pt)
+  2.	Create new pilot object using the above variables, and name it pilot1 (1 pt)  
+  4.	Change pilot1’s salary to 85000 (1 pt)
+  5.	Get pilot1’s cert_level and print it (1 pt)
+  6.	Print all the details of pilot1 (1 pt)    
   
-  7.	Create new mechanic object, name it mechanic1 using id = `3980`, name = `Ian West`, salary = `55000`, specialization = `aerofoil`
-  8.	Change mechanic1’s specialization to `wing engineering`
-  9.	Get mechanic1’s name and print it
-  10.	Print all the details of mechanic1
+  7.	Create new mechanic object, name it mechanic1 using id = `3980`, name = `Ian West`, salary = `55000`, specialization = `aerofoil` (1 pt)
+  8.	Change mechanic1’s specialization to `wing engineering` (1 pt)
+  9.	Get mechanic1’s name and print it (1 pt)
+  10.	Print all the details of mechanic1 (1 pt)
 
 </details>
 
 
 <details>
   <summary>
-    ✅ Part 5: 20 pts - Write code in a function named part5()
+    ✅ **Part 5: 20 pts** - Write code in a function named part5()
   </summary>
 
-- Connect to the database movies.db
+- Connect to the database movies.db (1 pt)
 - Write a CREATE statement that creates a table named movies with 4 columns (you may choose the names for the columns)
   - id is an integer and a primary key
   - name is string
   - year is integer
   - rating is float
-- it should not raise any exception
-- Open the file movies.txt and read it and insert that data into the table you created using INSERT statements (After executing correctly, comment out just this code)
+- it should not raise any exception (2 pts)
+- Open the file movies.txt and read it and insert that data into the table you created using INSERT statements (After executing correctly, comment out just this code) (4 pts)
 - (🚩 If you couldn't get the above code to working then you will not have any data to proceed with the following queries - you may download [movies.db](https://github.com/suchialex/CINS3002-Final/blob/main/movies.db))
 - (If you are using the db file provided by me, the column names are MovieID, MovieName, MovieYear and MovieRating)
-- Display all the movie data in a nice tabular format sorted by name
-- Display the lowest rating
-- Display the year of the most recent movie
-- Change the rating of the movie, The Good the Bad and the Ugly to 10
-- Change the year of Forrest Gump to 1994
-- Delete any movies who have rating lower than 9 and print how many were deleted
-- Close the connection
+- Display all the movie data in a nice tabular format sorted by name (3 pts)
+- Display the lowest rating (2 pts)
+- Display the year of the most recent movie (2 pts)
+- Change the rating of the movie, The Good the Bad and the Ugly to 10 (2 pts)
+- Change the year of Forrest Gump to 1994 (2 pts)
+- Delete any movies who have rating lower than 9 and print how many were deleted (2 pts)
+- Close the connection (1 pt)
 
 </details>
 

@@ -113,7 +113,7 @@
 - Open the file movies.txt and read it and insert that data into the table you created using INSERT statements (After executing correctly, comment out just this code)
 - Display all the movie data in a nice tabular format sorted by name
 - Display the lowest rating
-- Display the most recent movie(s) name and rating,sorted by rating in descending order
+- Display the year of the most recent movie
 - Change the rating of the movie, the good, the bad and the ugly to 10
 - Change the year of Forrest Gump to 1994
 - Delete any movies who have rating lower than 9 and print how many were deleted
